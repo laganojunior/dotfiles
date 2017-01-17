@@ -1,0 +1,11 @@
+[push]
+	default = simple
+[user]
+	email = laganojunior@gmail.com
+	name = Manue Lagang
+[diff]
+	tool = vimdiff
+[merge]
+	tool = vimdiff
+[core]
+	editor = vim
