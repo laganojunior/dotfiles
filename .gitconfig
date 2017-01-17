@@ -9,3 +9,7 @@
 	tool = vimdiff
 [core]
 	editor = vim
+[alias]
+	tree = log --graph --decorate --color --oneline
+[color]
+	ui = true
